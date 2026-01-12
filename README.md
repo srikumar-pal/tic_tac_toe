@@ -1,5 +1,7 @@
 📸 Screenshots
 <img width="622" height="555" alt="Screenshot 2026-01-12 203702" src="https://github.com/user-attachments/assets/e192dcd8-5427-4eee-b3b6-079f9aeb66ec" />
+
+
 🎮 Tic Tac Toe – Unbeatable AI (Python)
 
 A professional Tic Tac Toe desktop game built with Python & Tkinter, featuring an unbeatable AI using the Minimax algorithm, tournament mode, scoreboard, and a clean GUI.
