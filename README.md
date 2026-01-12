@@ -1,4 +1,15 @@
 📸 Screenshots
+
+
+
+
+
+
+
+
+
+
+
 <img width="622" height="555" alt="Screenshot 2026-01-12 203702" src="https://github.com/user-attachments/assets/e192dcd8-5427-4eee-b3b6-079f9aeb66ec" />
 
 
