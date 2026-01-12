@@ -39,7 +39,7 @@ tic_tac_toe/
 
 ▶️ How to Run (Python)
 1️⃣ Clone the repository
-git clone https://github.com/your-username/tic-tac-toe-ai.git
+git clone https://github.com/srikumar-pal/tic-tac-toe-ai.git
 cd tic-tac-toe-ai
 
 2️⃣ Run the game
@@ -70,7 +70,7 @@ Ensures the AI never loses (win or draw only)
 
 📦 Create EXE File (Windows)
 pip install pyinstaller
-pyinstaller --onefile tic_tac_toe_gui_ai_minimax.py
+pyinstaller --onefile tic_tac_toe_gui_ai_score.py
 
 
 The EXE will be generated inside the dist/ folder.
